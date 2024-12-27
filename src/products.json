@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Agua tonica",
+        "price": 157.62,
+        "aisle": "N/A",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/000092674l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id": 2,
+        "name": "Pechugas de Pollo Ayvi Mariposa 5 Kg",
+        "price": 479.78,
+        "aisle": "Congelados",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/000086898l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id": 3,
+        "name": "Papas a la francesa",
+        "price": 745.76,
+        "aisle": "Congelados",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/980017986l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id": 4,
+        "name": "Frutos rojos congelados",
+        "price": 189.25, 
+        "aisle": "Congelados",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/980022244l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id": 5,
+        "name": "Pan molido",
+        "price": 121.73,
+        "aisle": "Panaderia",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/980008327l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    }, 
+    {
+        "id": 6,
+        "name": "Imitación Salsa de Tomate Catsup",
+        "price": 111.5,
+        "aisle": "Conservas",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/000141584l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+        "id": 7,
+        "name": "Paprika Pimentón Español",
+        "price": 76.72,
+        "aisle": "Especias",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/000141584l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+
+    },
+    {
+        "id": 8,
+        "name": "Helado sabor vainilla",
+        "price": 203.57, 
+        "aisle": "Congelados",
+        "image": "https://i5-mx.walmartimages.com/samsmx/images/product-images/img_large/000349334l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    }
+]
